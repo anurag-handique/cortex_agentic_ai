@@ -1,0 +1,17 @@
+User Request
+   ↓
+Agent Decision
+   ↓
+Tool Identified
+   ↓
+Confirmation Required?
+   ↓
+(User Confirms)
+   ↓
+Tool Executes
+   ↓
+Tool Result
+   ↓
+Agent Interprets Result
+   ↓
+Final Response / Next Decision
